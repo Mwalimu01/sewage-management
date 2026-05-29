@@ -1,1 +1,3 @@
-
+User-agent: *
+Allow: /
+Sitemap: https://mwalimu01.github.io/sewage-service/sitemap.xml
